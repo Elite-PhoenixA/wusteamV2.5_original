@@ -1,0 +1,52 @@
+[04-Jul-2024 12:52:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[04-Jul-2024 12:53:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[04-Jul-2024 12:57:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[08-Jul-2024 14:55:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[08-Jul-2024 21:55:26 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[08-Jul-2024 21:55:26 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 14:55:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[08-Jul-2024 21:55:33 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[08-Jul-2024 21:55:33 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 14:55:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[08-Jul-2024 21:55:37 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[08-Jul-2024 21:55:37 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:26:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:26:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:26:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:26:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:26:53 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:26:53 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:26:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:26:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:26:56 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:27:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:27:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:27:49 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:29:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:29:01 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:29:01 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:29:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:29:05 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:29:05 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:29:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:29:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:29:08 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[08-Jul-2024 17:29:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/wuvbojwl93zi/public_html/config/Common.php on line 2
+[09-Jul-2024 00:29:14 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 5
+[09-Jul-2024 00:29:14 Asia/Ho_Chi_Minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/wuvbojwl93zi/public_html/admin/auth/login.php:1) in /home/wuvbojwl93zi/public_html/admin/auth/login.php on line 6
+[24-Jul-2024 16:30:02 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ws_plans' in 'where clause' in /home/wuvbojwl93zi/public_html/config/Common.php:917
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/config/Common.php(917): mysqli->query()
+#1 /home/wuvbojwl93zi/public_html/config/Common.php(922): PlanExpiredChecker::TD()
+#2 /home/wuvbojwl93zi/public_html/config/Database.php(45): require_once('/home/wuvbojwl9...')
+#3 /home/wuvbojwl93zi/public_html/admin/auth/login.php(2): require_once('/home/wuvbojwl9...')
+#4 {main}
+  thrown in /home/wuvbojwl93zi/public_html/config/Common.php on line 917
+[24-Jul-2024 18:43:04 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ws_plans' in 'where clause' in /home/wuvbojwl93zi/public_html/config/Common.php:917
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/config/Common.php(917): mysqli->query()
+#1 /home/wuvbojwl93zi/public_html/config/Common.php(922): PlanExpiredChecker::TD()
+#2 /home/wuvbojwl93zi/public_html/config/Database.php(45): require_once('/home/wuvbojwl9...')
+#3 /home/wuvbojwl93zi/public_html/admin/auth/login.php(2): require_once('/home/wuvbojwl9...')
+#4 {main}
+  thrown in /home/wuvbojwl93zi/public_html/config/Common.php on line 917

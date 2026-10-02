@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 111.09 37.03">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7ed321;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-width: 2.42px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #333;
+      }
+
+      .cls-4 {
+        font-size: 18px;
+      }
+
+      .cls-4, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        font-size: 24px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-family: A023-SounsoUndividedad, 'A023-Sounso Undividedad';
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_18);
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_18" data-name="未命名的渐变 18" x1="87.16" y1="-9.17" x2="28.43" y2="49.56" gradientUnits="userSpaceOnUse">
+      <stop offset=".04" stop-color="#7ac943"/>
+      <stop offset=".56" stop-color="#40931e"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-3" x="5.5" y="4.65" width="104.58" height="31.08" rx="15.54" ry="15.54"/>
+  <text class="cls-5" transform="translate(43.86 26.65)"><tspan class="cls-4" x="0" y="0">LV</tspan><tspan class="cls-6" x="27.88" y="0">2</tspan></text>
+  <g>
+    <path class="cls-1" d="M19.45,1.22c7.32,.43,7.53,7.92,6.65,11,8.86-2.82,12.26,1.17,12.85,3.52,1.06,5.63-4.28,7.33-7.09,7.48,5.67,7.04,2.95,10.56,.89,11.44-6.38,1.76-10.04-2.79-11.08-5.28-2.84,5.98-7.68,6.31-9.75,5.72-6.03-1.76-3.4-8.07-1.33-11C2.08,22.69,.84,18.52,1.29,16.62c1.42-7.04,8.86-5.87,12.41-4.4C12.27,3.06,16.94,1.07,19.45,1.22Z"/>
+    <path class="cls-2" d="M21.09,20.15l-3.79,4.73"/>
+    <path class="cls-2" d="M15.41,19.2l5.68,.95"/>
+    <path class="cls-2" d="M20.15,13.52l.95,6.63"/>
+    <path class="cls-2" d="M26.78,18.25l-5.68,1.89"/>
+    <path class="cls-2" d="M21.09,20.15l4.73,3.79"/>
+  </g>
+</svg>

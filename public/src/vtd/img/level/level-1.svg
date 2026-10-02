@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.3 42.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_3);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-5, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+
+      .cls-6, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_15);
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #333;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_17);
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-family: A023-SounsoUndividedad, 'A023-Sounso Undividedad';
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_15" data-name="未命名的渐变 15" x1="85.37" y1="-4.52" x2="26.64" y2="54.21" gradientUnits="userSpaceOnUse">
+      <stop offset=".04" stop-color="#ff931e"/>
+      <stop offset=".56" stop-color="#ff931e"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="9"/>
+      <feFlood flood-color="#000" flood-opacity=".43"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="_未命名的渐变_17" data-name="未命名的渐变 17" x1="16.17" y1="41.45" x2="16.17" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff931e"/>
+      <stop offset=".76" stop-color="#ffb855"/>
+    </linearGradient>
+    <linearGradient id="_未命名的渐变_3" data-name="未命名的渐变 3" x1="8.3" y1="31.5" x2="8.3" y2="30.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red"/>
+      <stop offset=".7" stop-color="#93278f"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="3.71" y="9.31" width="104.58" height="31.08" rx="15.54" ry="15.54"/>
+  <g class="cls-7">
+    <path class="cls-3" d="M16.17,41.45c8.33,0,15.17-6.6,15.17-15.07,0-2.08-.11-4.31-1.26-7.77-1.15-3.46-1.38-3.91-2.6-6.05-.52,4.37-3.31,6.19-4.01,6.73,0-.57-1.69-6.82-4.24-10.57-2.51-3.67-5.92-6.09-7.92-7.72,0,3.1-.87,7.72-2.12,10.07s-1.49,2.44-3.05,4.19c-1.56,1.75-2.28,2.29-3.58,4.41-1.31,2.12-1.54,4.95-1.54,7.03,0,8.47,6.84,14.75,15.17,14.75Z"/>
+  </g>
+  <path class="cls-4" d="M6.3,22c-.16,.78-.27,1.79-.15,2.96,.13,1.21,.46,2.2,.79,2.92"/>
+  <circle class="cls-1" cx="8.3" cy="31" r=".5"/>
+  <text class="cls-5" transform="translate(42.07 31.3)"><tspan class="cls-6" x="0" y="0">LV</tspan><tspan class="cls-8" x="27.88" y="0">1</tspan></text>
+</svg>

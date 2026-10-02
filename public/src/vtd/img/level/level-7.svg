@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 114.15 38.61">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_未命名的渐变_57);
+        stroke: #333;
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: #fdbd39;
+      }
+
+      .cls-4 {
+        fill: none;
+        isolation: isolate;
+        opacity: .9;
+        stroke: #ee6723;
+        stroke-width: 1.2px;
+      }
+
+      .cls-2 {
+        font-size: 19px;
+      }
+
+      .cls-5 {
+        fill: #ee6723;
+      }
+
+      .cls-6 {
+        opacity: .18;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        font-size: 25.34px;
+      }
+
+      .cls-10 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-7 {
+        font-family: A023-SounsoUndividedad, 'A023-Sounso Undividedad';
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-8 {
+        opacity: .22;
+      }
+
+      .cls-11 {
+        fill: #f69833;
+      }
+
+      .cls-12 {
+        fill: #fecf33;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_57" data-name="未命名的渐变 57" x1="89.22" y1="-11.38" x2="26.78" y2="51.06" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#9e00c5"/>
+      <stop offset=".67" stop-color="#f7931e"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".46"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" x="2.85" y="3.45" width="110.3" height="32.77" rx="15.54" ry="15.54"/>
+  <text class="cls-7" transform="translate(46.21 27.71)"><tspan class="cls-2" x="0" y="0">LV</tspan><tspan class="cls-9" x="29.43" y="0">7</tspan></text>
+  <g class="cls-10">
+    <path class="cls-3" d="M6.39,23.21l-2.17,.79-.12,6.45,7.5-2.74c-2.58-.86-4.45-2.38-5.22-4.5Z"/>
+    <path class="cls-11" d="M7.52,16.39L0,19.14l4.22,4.87,2.17-.79c-.76-2.11-.29-4.49,1.13-6.82Z"/>
+    <path class="cls-12" d="M20.18,7.08c-9.58,3.5-15.75,10.72-13.79,16.13L41.07,10.54c-1.96-5.41-11.32-6.95-20.89-3.46Z"/>
+    <path class="cls-5" d="M27.28,26.67c9.58-3.5,15.76-10.69,13.79-16.13L6.39,23.21c1.97,5.44,11.32,6.96,20.89,3.46Z"/>
+    <path class="cls-11" d="M41.07,10.54L6.39,23.21c.68,1.87,3.27,2.8,6.9,2.8s8.08-.88,12.81-2.6c9.58-3.5,16.32-9.16,14.97-12.86Z"/>
+    <path class="cls-3" d="M34.17,7.74c-3.54,0-8.08,.88-12.81,2.6-9.58,3.5-16.32,9.16-14.97,12.86L41.07,10.54c-.68-1.87-3.27-2.79-6.9-2.79Z"/>
+    <path class="cls-4" d="M25.08,5.72c-.91-3.22-1.98-5.2-2.97-5.12-1.87,.17-2.74,7.59-1.94,16.59,.8,9,2.95,16.16,4.82,15.99,1.08-.1,1.82-2.61,2.11-6.45,.06-.02,.13-.05,.19-.07,1.67-.61,3.24-1.33,4.68-2.14,1.36,3.01,1.8,5.18,.99,5.74-1.53,1.08-6.99-4.04-12.18-11.43C15.57,11.46,12.6,4.59,14.14,3.52c.89-.63,3.12,.84,5.84,3.64"/>
+  </g>
+  <polygon class="cls-8" points="77.44 35.23 63.44 4.53 58.44 4.53 72.44 35.23 77.44 35.23"/>
+  <polygon class="cls-6" points="86.59 35.23 72.59 4.53 67.59 4.53 81.59 35.23 86.59 35.23"/>
+</svg>

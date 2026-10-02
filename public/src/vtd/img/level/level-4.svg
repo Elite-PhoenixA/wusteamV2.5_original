@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 107.88 38.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff931e;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-5 {
+        stroke-width: 2.58px;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-6 {
+        font-size: 18px;
+      }
+
+      .cls-6, .cls-4 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #29abe2;
+      }
+
+      .cls-7 {
+        filter: url(#drop-shadow-1);
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-9 {
+        fill: #fff;
+        font-family: A023-SounsoUndividedad, 'A023-Sounso Undividedad';
+        stroke-miterlimit: 10;
+      }
+
+      .cls-9, .cls-3 {
+        stroke: #fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: url(#_未命名的渐变_23);
+        stroke: #333;
+      }
+
+      .cls-5 {
+        fill: #d0021b;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_23" data-name="未命名的渐变 23" x1="83.95" y1="-7.98" x2="25.22" y2="50.75" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#ff001c"/>
+      <stop offset=".56" stop-color="#ff4f00"/>
+    </linearGradient>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="7" dy="7"/>
+      <feGaussianBlur result="blur" stdDeviation="5"/>
+      <feFlood flood-color="#000" flood-opacity=".46"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-4" x="2.29" y="5.84" width="104.58" height="31.08" rx="15.54" ry="15.54"/>
+  <text class="cls-9" transform="translate(40.65 27.84)"><tspan class="cls-6" x="0" y="0">LV</tspan><tspan class="cls-8" x="27.88" y="0">4</tspan></text>
+  <g class="cls-7">
+    <path class="cls-5" d="M22.57,6.27c0-3.27-3.16-5.81-6.59-4.73-2.05,.65-3.37,2.65-3.37,4.8,0,5.31,0,17.77,0,23.08,0,2.15,1.31,4.16,3.37,4.8,3.44,1.08,6.59-1.45,6.59-4.73V6.27Z"/>
+    <path class="cls-1" d="M22.57,14.93l5.71,5.71c1.06,1.06,2.74,1.39,4.02,.61,1.86-1.14,2.07-3.61,.63-5.04L22.57,5.83V14.93Z"/>
+    <path class="cls-2" d="M12.61,20.64l-5.71-5.71c-1.06-1.06-2.74-1.39-4.02-.61-1.86,1.14-2.07,3.6-.63,5.04l10.37,10.37v-9.1Z"/>
+    <path class="cls-3" d="M17.59,6.54v1.24"/>
+    <path class="cls-3" d="M17.59,28.95h0"/>
+  </g>
+</svg>

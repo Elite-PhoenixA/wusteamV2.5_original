@@ -1,0 +1,256 @@
+[21-Jun-2024 18:07:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'naptoithieu' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:471
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(471): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 471
+[21-Jun-2024 18:07:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'naptoithieu' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:471
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(471): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 471
+[21-Jun-2024 18:08:44 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'naptoithieu' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:471
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(471): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 471
+[21-Jun-2024 18:09:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'naptoithieu' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:471
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(471): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 471
+[21-Jun-2024 18:11:46 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'naptoithieu' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:473
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(473): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 473
+[21-Jun-2024 18:12:39 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:473
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(473): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 473
+[21-Jun-2024 18:13:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:473
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(473): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 473
+[21-Jun-2024 18:13:40 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:473
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(473): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 473
+[21-Jun-2024 18:14:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:473
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(473): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 473
+[21-Jun-2024 18:23:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 18:23:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 18:24:22 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 18:24:24 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 18:25:09 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 18:27:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 18:29:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column `wuvbojwl93zi_kvk`.`ws_products`.`giatien` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:675
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(675): mysqli_query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 675
+[21-Jun-2024 19:38:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:507
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(507): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 507
+[21-Jun-2024 19:42:12 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:507
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(507): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 507
+[22-Jun-2024 08:33:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught ArgumentCountError: random_int() expects exactly 2 arguments, 1 given in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:110
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(110): random_int()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 110
+[22-Jun-2024 11:14:01 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $td in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 738
+[22-Jun-2024 11:14:01 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 738
+[22-Jun-2024 11:14:16 Asia/Ho_Chi_Minh] PHP Warning:  Undefined variable $td in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 738
+[22-Jun-2024 11:14:16 Asia/Ho_Chi_Minh] PHP Warning:  Trying to access array offset on value of type null in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 738
+[22-Jun-2024 12:57:17 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:524
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(524): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 524
+[22-Jun-2024 12:57:21 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:524
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(524): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 524
+[22-Jun-2024 13:14:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:493
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(493): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 493
+[22-Jun-2024 13:15:20 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:493
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(493): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 493
+[22-Jun-2024 13:15:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:493
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(493): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 493
+[22-Jun-2024 13:15:45 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:493
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(493): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 493
+[22-Jun-2024 13:16:08 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:493
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(493): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 493
+[22-Jun-2024 13:18:25 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'stk' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:493
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(493): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 493
+[22-Jun-2024 23:36:31 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_pinned' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:747
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(747): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 747
+[22-Jun-2024 23:36:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_pinned' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:747
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(747): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 747
+[22-Jun-2024 23:37:28 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_pinned' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:747
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(747): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 747
+[22-Jun-2024 23:38:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_pinned' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:747
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(747): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 747
+[22-Jun-2024 23:39:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_pinned' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:747
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(747): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 747
+[22-Jun-2024 23:40:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'is_pinned' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:747
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(747): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 747
+[24-Jun-2024 09:02:18 Asia/Ho_Chi_Minh] PHP Deprecated:  openssl_encrypt(): Passing null to parameter #3 ($passphrase) of type string is deprecated in /home/wuvbojwl93zi/public_html/config/Common.php on line 159
+[24-Jun-2024 09:02:18 Asia/Ho_Chi_Minh] PHP Deprecated:  openssl_encrypt(): Passing null to parameter #3 ($passphrase) of type string is deprecated in /home/wuvbojwl93zi/public_html/config/Common.php on line 159
+[24-Jun-2024 12:12:16 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'partner-id' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:547
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(547): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 547
+[24-Jun-2024 12:12:55 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'partner-id' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:547
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(547): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 547
+[24-Jun-2024 19:55:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught ValueError: random_int(): Argument #1 ($min) must be less than or equal to argument #2 ($max) in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:561
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(561): random_int()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 561
+[24-Jun-2024 19:56:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught ValueError: random_int(): Argument #1 ($min) must be less than or equal to argument #2 ($max) in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:561
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(561): random_int()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 561
+[25-Jun-2024 22:58:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'sotien' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:367
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(367): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 367
+[25-Jun-2024 22:58:23 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'sotien' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:367
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(367): mysqli->query()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 367
+[09-Jul-2024 19:42:14 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "site-ads" in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 157
+[09-Jul-2024 19:42:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ads' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:158
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(158): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 158
+[09-Jul-2024 19:42:36 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "site-ads" in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 157
+[09-Jul-2024 19:42:36 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ads' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:158
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(158): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 158
+[09-Jul-2024 19:43:19 Asia/Ho_Chi_Minh] PHP Warning:  Undefined array key "site-ads" in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 157
+[09-Jul-2024 19:43:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ads' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:158
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(158): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 158
+[09-Jul-2024 19:43:59 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'ads' in 'field list' in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:158
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(158): mysqli->prepare()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 158
+[10-Jul-2024 19:12:42 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: '2024' for column `wuvbojwl93zi_kvk`.`ws_products`.`ngaycapnhat` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:717
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(717): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 717
+[10-Jul-2024 19:12:58 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: '2024' for column `wuvbojwl93zi_kvk`.`ws_products`.`ngaycapnhat` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:717
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(717): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 717
+[10-Jul-2024 19:14:37 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: '2024' for column `wuvbojwl93zi_kvk`.`ws_products`.`ngaycapnhat` at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:717
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(717): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 717
+[23-Jul-2024 22:03:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'partner-id' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:555
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(555): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 555
+[23-Jul-2024 22:03:38 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'partner-id' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:555
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(555): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 555
+[23-Jul-2024 22:06:18 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught mysqli_sql_exception: Out of range value for column 'partner-id' at row 1 in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php:555
+Stack trace:
+#0 /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php(555): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/wuvbojwl93zi/public_html/app/ajax/admin/global.admin.php on line 555
+[04-Dec-2024 13:43:18 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; WsCheckIMG has a deprecated constructor in /home/wuvbojwl93zi/public_html/config/Common.php on line 482
+[04-Dec-2024 13:43:18 UTC] PHP Fatal error:  Constructor WsCheckIMG::WsCheckImg() cannot be static in /home/wuvbojwl93zi/public_html/config/Common.php on line 482

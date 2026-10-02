@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 106.58 39.48">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-5 {
+        stroke-width: 2.58px;
+      }
+
+      .cls-1, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-6, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2 {
+        fill: url(#_未命名的渐变_27);
+        stroke: #333;
+      }
+
+      .cls-2, .cls-7 {
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        font-size: 18px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .cls-3, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-8 {
+        font-size: 24px;
+      }
+
+      .cls-6 {
+        font-family: A023-SounsoUndividedad, 'A023-Sounso Undividedad';
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5 {
+        fill: #ed1e79;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_27" data-name="未命名的渐变 27" x1="82.66" y1="-6.72" x2="23.93" y2="52.01" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#ed1e79"/>
+      <stop offset=".56" stop-color="#ed5c79"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-2" x="1" y="7.11" width="104.58" height="31.08" rx="15.54" ry="15.54"/>
+  <text class="cls-6" transform="translate(39.36 29.11)"><tspan class="cls-7" x="0" y="0">LV</tspan><tspan class="cls-8" x="27.88" y="0">5</tspan></text>
+  <g>
+    <path class="cls-5" d="M9.86,33.2l2.68-6.63c-3.67-2.47-6.08-6.69-6.08-11.5C6.46,7.46,12.53,1.29,20.02,1.29s13.56,6.17,13.56,13.78c0,4.8-2.42,9.03-6.08,11.5l2.68,6.63H9.86Z"/>
+    <path class="cls-4" d="M17.11,28.26v4.94"/>
+    <path class="cls-4" d="M23.29,28.26v4.94"/>
+    <path class="cls-1" d="M14.44,15.96c1.32,0,2.39-1.07,2.39-2.39s-1.07-2.39-2.39-2.39-2.39,1.07-2.39,2.39,1.07,2.39,2.39,2.39Z"/>
+    <path class="cls-1" d="M25.61,15.96c1.32,0,2.39-1.07,2.39-2.39s-1.07-2.39-2.39-2.39-2.39,1.07-2.39,2.39,1.07,2.39,2.39,2.39Z"/>
+    <path class="cls-3" d="M26.99,33.2h-7.41"/>
+    <path class="cls-3" d="M19.58,33.2h-6.18"/>
+  </g>
+</svg>

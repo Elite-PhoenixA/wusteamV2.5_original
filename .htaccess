@@ -1,0 +1,88 @@
+<IfModule mod_rewrite.c>
+Options -Indexes
+RewriteEngine On
+ErrorDocument 404 /app/insert/error/404.php
+ErrorDocument 403 /app/insert/error/403.php
+ErrorDocument 504 /app/insert/error/504.php
+RewriteCond %{ENV:REDIRECT_STATUS} 403
+RewriteRule ^ - [L]
+RewriteRule ^public/cache/.*$ - [F]
+RewriteRule ^layout/Client/admin/.*$ - [F]
+#RewriteRule ^layout/Client/user/.*$ - [F]
+RewriteRule ^layout/Client/msg/.*$ - [F]
+RewriteRule ^layout/Client/products/.*$ - [F]
+#==============================#
+# Assign System
+RewriteRule ^install/?$ /install/index.php [L]
+RewriteRule ^app/data-modal$ /app/insert/data.modal.php [L]
+RewriteRule ^cron-jobs/global$ /app/cron-jobs/global.php [L]
+RewriteRule ^call-back/card5s$ /app/function/callback/card5s.php [L]
+RewriteRule ^call-back/bank$ /app/function/callback/bank.php [L]
+RewriteRule ^verifybot$ /app/module/protects/__Verifybot.php [L]
+#==============================#
+# Assign Index
+RewriteRule ^goto$ /layout/Pages/goto.php [L]
+RewriteRule ^download(/.*)?$ /layout/Pages/download.php [L]
+RewriteRule ^(view-code|t)/([^/]+)$ /layout/Pages/products.php [L]
+RewriteRule ^(ve-chung-toi|ve-chung-toi/)$ /layout/Pages/about-us.php [L]
+RewriteRule ^(dieu-khoan|dieu-khoan/)$ /layout/Pages/tos.php [L]
+RewriteRule ^bang-xep-hang/$ /layout/Pages/bxh.php [L]
+RewriteRule ^xo-so/$ /layout/Pages/xoso.php [L]
+RewriteRule ^RefreshSession$ /layout/Web-Services/Oauth/RefreshSessionChecker.php [L]
+#==============================#
+# Assign Users
+RewriteRule ^(dang-nhap|dang-ky|login|signup|signin|register|user-auth)$ /layout/Pages/vendor/user-auth.php [L]
+RewriteRule ^(search)/(.*)$ /layout/Pages/search.php [L]
+RewriteRule ^user/profile?id=(.*)$ /user/index.php [L]
+RewriteRule ^(profile|author)/(.*)$ /user/profile.php [L]
+RewriteRule ^layout/([^/]+)/?$ /index.php [L]
+RewriteRule ^user/(account|balance|history-order|level|plans|security|verify)$ /user/ [L]
+RewriteRule ^message/(chat|system) /message/ [L]
+RewriteCond %{REQUEST_URI} ^/dien-dan/$
+RewriteRule ^dien-dan/$ /layout/Pages/forum.php [L]
+RewriteCond %{REQUEST_URI} ^/dien-dan$
+RewriteRule ^dien-dan$ /layout/Pages/forums.php [L]
+RewriteRule ^create/newposts$ /layout/Client/user/newpost.php [L]
+#==============================#s
+# Assign API
+RewriteRule ^api/random-img-sign$ /app/api/random-img.php [L]
+RewriteRule ^api/qr-code$ /app/api/qr-code.php [L]
+RewriteRule ^api/find-info-facebook$ /app/api/find-info-facebook.php [L]
+RewriteRule ^api/cham-ngon$ /app/api/cham-ngon.php [L]
+#==============================#
+# Assign Admin
+RewriteRule ^admin/auth/login$ /admin/auth/login.php [L]
+RewriteRule ^admin/auth/logout$ /admin/auth/logout.php [L]
+RewriteRule ^admin/profile/logs$ /admin/logs.php [L]
+RewriteRule ^admin/dashboard$ /admin/index.php [L]
+RewriteRule ^admin/analytics$ /admin/analytics.php [L]
+RewriteRule ^admin/create/product$ /admin/add-product.php [L]
+RewriteRule ^admin/create/forum$ /admin/forum.php [L]
+RewriteRule ^admin/products/list$ /admin/product-list.php [L]
+RewriteRule ^admin/history/product$ /admin/history-product.php [L]
+RewriteRule ^admin/users/list$ /admin/user-list.php [L]
+RewriteRule ^admin/users/banned$ /admin/user-banned.php [L]
+RewriteRule ^admin/history/bank$ /admin/bank.php [L]
+RewriteRule ^admin/history/card$ /admin/card.php [L]
+RewriteRule ^admin/manager/payment$ /admin/payment.php [L]
+RewriteRule ^admin/comments$ /admin/comments.php [L]
+RewriteRule ^admin/activity/log$ /admin/activity.php [L]
+RewriteRule ^admin/handle/report$ /admin/report.php [L]
+RewriteRule ^admin/manager/plan$ /admin/plan.php [L]
+RewriteRule ^admin/cron-jobs$ /admin/cron-job.php [L]
+RewriteRule ^admin/verify$ /admin/verify.php [L]
+RewriteRule ^admin/upload-img-get-link$ /admin/upload-img.php [L]
+RewriteRule ^admin/handle/view-report/t/([0-9a-zA-Z]+)$ /admin/view-report.php [L]
+RewriteRule ^admin/users/edit/([0-9a-zA-Z]+)$ /admin/edit-user.php [L]
+RewriteRule ^admin/settings(/.*)?$ /admin/settings.php [L]
+#==============================#
+# Assign Ajax
+RewriteRule ^ajax/users/global.users$ /app/ajax/users/global.users.php [L]
+#RewriteRule ^ajax/default/products$ /app/ajax/default/products.php [L]
+RewriteRule ^ajax/admin/global.admin$ /app/ajax/admin/global.admin.php [L]
+RewriteRule ^ajax/default/installer$ /app/ajax/default/installer.php [L]
+RewriteRule ^ajax/human$ /app/ajax/default/human.php [L]
+#==============================#
+</IfModule>
+
+

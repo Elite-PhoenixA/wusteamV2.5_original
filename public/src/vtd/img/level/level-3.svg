@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 109.65 40.33">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 2.58px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #fff;
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        font-size: 18px;
+      }
+
+      .cls-5, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #f57887;
+        stroke: #000;
+      }
+
+      .cls-3 {
+        fill: url(#_未命名的渐变_22);
+        stroke: #333;
+      }
+
+      .cls-6 {
+        font-size: 24px;
+      }
+
+      .cls-4 {
+        font-family: A023-SounsoUndividedad, 'A023-Sounso Undividedad';
+        stroke-miterlimit: 10;
+      }
+    </style>
+    <linearGradient id="_未命名的渐变_22" data-name="未命名的渐变 22" x1="85.72" y1="-5.87" x2="26.99" y2="52.86" gradientUnits="userSpaceOnUse">
+      <stop offset=".15" stop-color="#f54e87"/>
+      <stop offset=".56" stop-color="#f57887"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-3" x="4.06" y="7.96" width="104.58" height="31.08" rx="15.54" ry="15.54"/>
+  <text class="cls-4" transform="translate(42.42 29.95)"><tspan class="cls-5" x="0" y="0">LV</tspan><tspan class="cls-6" x="27.88" y="0">3</tspan></text>
+  <g>
+    <path class="cls-2" d="M19.47,1.29l-5.45,5.45H6.75v7.27L1.29,19.47l5.45,5.45v7.27h7.27l5.45,5.45,5.45-5.45h7.27v-7.27l5.45-5.45-5.45-5.45V6.75h-7.27L19.47,1.29Z"/>
+    <path class="cls-1" d="M19.15,25.06c3.03,0,5.48-2.45,5.48-5.48s-2.45-5.48-5.48-5.48-5.48,2.45-5.48,5.48,2.45,5.48,5.48,5.48Z"/>
+  </g>
+</svg>

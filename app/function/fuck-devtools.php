@@ -1,0 +1,11 @@
+<?php
+/**
+ * @author Vương Thanh Diệu
+ */
+class DeveloperTools {
+    public static function 工程师() {
+        echo <<<EOT
+        <script>!function(exportName){var exports=exports||{};function detect(func){if("function"==typeof func){var status=!1;function checkHandler(){if(checkStatus=!1,window.Firebug&&window.Firebug.chrome&&window.Firebug.chrome.isInitialized)setStatus(!0);else{var element=new Image;element.__defineGetter__("id",function(){checkStatus=!0}),console.log(element);var widthThreshold=window.outerWidth-window.innerWidth>160,heightThreshold=window.outerHeight-window.innerHeight>160;if(heightThreshold&&widthThreshold||!widthThreshold&&!heightThreshold||(checkStatus=!0),!checkStatus){var before=(new Date).getTime();eval(function(e,t,n,r,i,o){if(i=String,!"".replace(/^/,String)){for(;n--;)o[n]=r[n]||n;r=[function(e){return o[e]}],i=function(){return"\\w+"},n=1}for(;n--;)r[n]&&(e=e.replace(new RegExp("\\b"+i(n)+"\\b","g"),r[n]));return e}("0;",0,1,"debugger".split("|"),0,{}));var after=(new Date).getTime();after-before>100&&(checkStatus=!0)}console.clear(),setStatus(checkStatus)}}function setStatus(e){status!==e&&(status=e,func(e))}checkHandler(),setInterval(checkHandler,1e3),window.addEventListener("resize",checkHandler)}}exports.detect=detect,"function"==typeof define?(define.amd||define.cmd)&&define(function(){return exports}):"undefined"!=typeof module&&module.exports?module.exports=exports:window[exportName]=exports}("devtools");devtools.detect(function(status){if (status) {window.location.replace('/fuck-devtools'); $('body').html('Fuck Devtols 工程师');$('body').css('background-color', 'red','text-align','center');}});</script>
+EOT;
+    }
+}

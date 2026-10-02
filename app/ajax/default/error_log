@@ -1,0 +1,1 @@
+[19-Jun-2025 23:26:08 Asia/Ho_Chi_Minh] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dtruyenhayxyz/client.tpstudio.io.vn/app/ajax/default/installer.php on line 15
